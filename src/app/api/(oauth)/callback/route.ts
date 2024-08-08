@@ -23,6 +23,6 @@ export const POST = async (
     });
     return NextResponse.json(data);
   } catch (err) {
-    return new Response('에러입니다', { status: 415 });
+    return new Response('에러입니다!!!', { status: 415 });
   }
 };

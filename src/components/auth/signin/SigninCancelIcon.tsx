@@ -4,7 +4,7 @@ import Icons from '@/components/common/Icons';
 import { close } from '@/utils/Icon';
 import { useRouter } from 'next/navigation';
 
-const SigninHeader = () => {
+const SigninCancelIcon = () => {
   const route = useRouter();
   return (
     <div className="pt-5 cursor-pointer">
@@ -13,4 +13,4 @@ const SigninHeader = () => {
   );
 };
 
-export default SigninHeader;
+export default SigninCancelIcon;

@@ -9,8 +9,17 @@ assignees: ''
 
 ### 🎯[Action] 스프린트 주요 목표
 
-- action title
-- action description
+- action Date
+- action Description
+
+<br>
+
+### 🎯[Tasks] 세부 사항
+
+- [ ]  Task 1
+   - Description
+
+<br>
 
 ### 🎯[Images] 목표 UI에 대한 청사진 
 

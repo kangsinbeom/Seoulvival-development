@@ -11,15 +11,18 @@ assignees: ''
 
 - [ ]  First Task
    - Description
+   - Trouble shooting
 
 <br>
 
 - [ ]  Second Task
    - Description
+   - Trouble shooting
 
 <br>
 
 - [ ]  Third Task
    - Description
+   - Trouble shooting
 
 <br>
